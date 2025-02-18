@@ -1,3 +1,5 @@
  this is git bash practice
 just experiencing the push command
+git push -u origin master
+
 
